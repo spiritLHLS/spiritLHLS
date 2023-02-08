@@ -1,7 +1,9 @@
-# 备用gitlab地址
+# 备用地址
+
+https://gitlab.com/spiritysdx
 
 https://jihulab.com/spiritlhl
 
-GitHub号也属于备份号，对于实际正在开发的仓库更新可能有所延迟。
+GitHub也属于备份。
 
-PS：如无分享必要，自建gitee或者gogs或者gitlab会比较好。
+如无分享必要，自建gitee或者gogs或者gitlab会比较好。
