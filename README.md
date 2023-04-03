@@ -1,6 +1,6 @@
 <a href="https://github.com/spiritLHLS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiritLHLS&theme=prussian&layout=compact&hide=handlebars,css" alt="top-langs"></img></a>
 
-## 主要维护的仓库
+## 公开的主要维护的仓库
 
 [VPS融合怪服务器测评脚本](https://github.com/spiritLHLS/ecs)
 
