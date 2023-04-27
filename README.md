@@ -16,8 +16,6 @@
 
 [OpenAI解锁测试脚本](https://github.com/spiritLHLS/OpenAI-Checker)
 
-[convoypanel-scripts](https://github.com/spiritLHLS/convoypanel-scripts)
-
 ## 赞助：
 
 https://afdian.net/a/spiritlhl/plan
