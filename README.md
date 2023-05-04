@@ -18,12 +18,3 @@
 
 [OpenAI解锁测试脚本](https://github.com/spiritLHLS/OpenAI-Checker)
 
-## 赞助：
-
-https://afdian.net/a/spiritlhl/plan
-
-## 备份地址
-
-https://gitlab.com/spiritysdx
-
-https://jihulab.com/spiritlhl
