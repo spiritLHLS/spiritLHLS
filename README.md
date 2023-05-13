@@ -6,7 +6,7 @@
 
 [一键修复与安装脚本(各种linux系统修复与服务器环境安装脚本)](https://github.com/spiritLHLS/one-click-installation-script)
 
-[自动更新测速服务器节点列表的网络基准测试脚本](https://github.com/spiritLHLS/ecsspeed)
+[自动更新测试服务器节点列表的网络基准测试脚本](https://github.com/spiritLHLS/ecsspeed)
 
 [通过LXD/LXC命令批量或单独开设NAT服务器以及维护](https://github.com/spiritLHLS/lxc)
 
