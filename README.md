@@ -15,6 +15,3 @@
 [通过docker批量或单独开设NAT服务器](https://github.com/spiritLHLS/docker)
 
 [甲骨文服务器保活脚本](https://github.com/spiritLHLS/Oracle-server-keep-alive-script)
-
-[OpenAI解锁测试脚本](https://github.com/spiritLHLS/OpenAI-Checker)
-
