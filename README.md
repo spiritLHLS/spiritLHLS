@@ -6,7 +6,7 @@
 
 [PVE相关的各种一键脚本](https://github.com/spiritLHLS/pve)
 
-[通过LXD/LXC命令批量或单独开设NAT服务器以及维护](https://github.com/spiritLHLS/lxc)
+[通过LXD命令批量或单独开设NAT服务器以及维护](https://github.com/spiritLHLS/lxd)
 
 [通过docker批量或单独开设NAT服务器](https://github.com/spiritLHLS/docker)
 
