@@ -6,9 +6,9 @@
 
 [PVE相关的各种一键脚本](https://github.com/spiritLHLS/pve)
 
-[通过LXD命令批量或单独开设NAT服务器以及维护](https://github.com/spiritLHLS/lxd)
+[LXD相关的各种一键脚本](https://github.com/spiritLHLS/lxd)
 
-[通过docker批量或单独开设NAT服务器](https://github.com/spiritLHLS/docker)
+[Docker相关的各种一键脚本](https://github.com/spiritLHLS/docker)
 
 [一键修复与安装脚本(各种linux系统修复与服务器环境安装脚本)](https://github.com/spiritLHLS/one-click-installation-script)
 
