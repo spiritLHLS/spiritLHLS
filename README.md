@@ -8,7 +8,7 @@
 
 [PVE相关的各种一键脚本](https://github.com/spiritLHLS/pve)
 
-[LXD相关的各种一键脚本](https://github.com/spiritLHLS/lxd)
+[incus相关的各种一键脚本](https://github.com/oneclickvirt/incus)
 
 [Docker相关的各种一键脚本](https://github.com/spiritLHLS/docker)
 
