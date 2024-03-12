@@ -6,11 +6,11 @@
 
 [VPS融合怪服务器测评脚本](https://github.com/spiritLHLS/ecs)
 
-[PVE相关的各种一键脚本](https://github.com/spiritLHLS/pve)
+[PVE相关的各种一键脚本](https://github.com/oneclickvirt/pve)
 
 [incus相关的各种一键脚本](https://github.com/oneclickvirt/incus)
 
-[Docker相关的各种一键脚本](https://github.com/spiritLHLS/docker)
+[Docker相关的各种一键脚本](https://github.com/oneclickvirt/docker)
 
 [各种linux系统修复与服务器环境安装脚本](https://github.com/spiritLHLS/one-click-installation-script)
 
