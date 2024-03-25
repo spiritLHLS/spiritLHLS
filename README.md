@@ -1,8 +1,6 @@
 <a href="https://github.com/spiritLHLS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiritLHLS&theme=prussian&layout=compact&hide=handlebars,css" alt="top-langs"></img></a>
 
-## 公开的主要维护的仓库
-
-由于本人Python相关内容几乎都是私有仓库/不在本账号，所以这里展示的内容大多只与Shell语言相关。
+## 以个人身份公开的主要维护的仓库
 
 [VPS融合怪服务器测评脚本](https://github.com/spiritLHLS/ecs)
 
