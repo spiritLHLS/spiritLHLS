@@ -13,3 +13,7 @@
 [各种linux系统修复与服务器环境安装脚本](https://github.com/spiritLHLS/one-click-installation-script)
 
 [自动更新测试服务器节点列表的网络基准测试脚本](https://github.com/spiritLHLS/ecsspeed)
+
+## 以组织成员形式维护的仓库
+
+见 [https://github.com/oneclickvirt](https://github.com/oneclickvirt) 中以 ```shell```语言和```golang```语言主导的仓库
